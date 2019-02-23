@@ -1,0 +1,31 @@
+_repo: A-Philosophical-Essay-on-Probabilities_58881
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Emory, F. L.
+    gutenberg_agent_id: '50197'
+    url: http://www.gutenberg.org/2009/agents/50197
+  - agent_name: Truscott, F. W.
+    gutenberg_agent_id: '50196'
+    url: http://www.gutenberg.org/2009/agents/50196
+creator:
+  authors:
+  - agent_name: Simon, Pierre
+    gutenberg_agent_id: '50194'
+    url: http://www.gutenberg.org/2009/agents/50194
+  - agent_name: Laplace, marquis de
+    gutenberg_agent_id: '50195'
+    url: http://www.gutenberg.org/2009/agents/50195
+description: ''
+gutenberg_issued: '2019-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Philosophical Essay on Probabilities
+url: http://www.gutenberg.org/ebooks/58881
