@@ -1,5 +1,5 @@
 _repo: A-Philosophical-Essay-on-Probabilities_58881
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Emory, F. L.
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Truscott, F. W.
     gutenberg_agent_id: '50196'
     url: http://www.gutenberg.org/2009/agents/50196
+covers:
+- cover_type: archival
+  image_path: 58881-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Simon, Pierre
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '50195'
     url: http://www.gutenberg.org/2009/agents/50195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58881#A-Philosophical-Essay-on-Probabilities
 gutenberg_issued: '2019-02-13'
 gutenberg_type: Text
 identifiers:
